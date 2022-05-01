@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JJJSSS</title>
+    </head>
+    <body>
+        <script>
+            t = "test"
+
+            function h() {
+                h = "h"
+                h = prompt("");
+                document.getElementById("h1").innerHTML = h;
+            }
+
+            function p() {
+                p = "p"
+                p = prompt("");
+                document.getElementById("p").innerHTML = p;
+            }
+
+            function reset() {
+                document.getElementById("h1").innerHTML = t;
+                document.getElementById("p").innerHTML = t;
+            }
+        </script>
+        <h1 id="h1" onclick="h()">test</h1>
+        <p id="p" onclick="p()">test</p>
+        <button onclick="reset()">reset</button>
+    </body>
+</html>
