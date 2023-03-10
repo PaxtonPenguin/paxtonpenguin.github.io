@@ -1,0 +1,35 @@
+MailCall @ Paxton Server
+
+ _      ____  _  _     ____  ____  _     _    
+/ \__/|/  _ \/ \/ \   /   _\/  _ \/ \   / \   
+| |\/||| / \|| || |   |  /  | / \|| |   | |   
+| |  ||| |-||| || |_/\|  \__| |-||| |_/\| |_/\
+\_/  \|\_/ \|\_/\____/\____/\_/ \|\____/\____/
+                                              
+
+Login
+- Username?
+-- plex01
+- New User Account Detected
+- Password?
+-- ***********
+
+Mail Email: plex01@paxtonpenguin.com
+Rember to not share with any one else
+
+- Email?
+-- peep@paxtonpenguin.com
+
+|-----------|
+| Bug Report|
+|in Sector 4|
+|@line 4    |
+|-----------|
+
+- Done?
+-- Yes
+
+- Email?
+-- exit
+
+Bye
